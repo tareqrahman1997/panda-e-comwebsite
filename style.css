@@ -1,0 +1,84 @@
+.carousel-bg{
+    background-color:#FDE7E7;
+    border-radius: 8px;
+}
+.container{
+    margin-bottom: 80px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.col-md-7 h1, .card h1{
+    text-transform: capitalize;
+    font-size: 30px;
+}
+.col-md-7 p{
+    font-size: 18px;
+
+}
+.buy-now-button a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+.buy-now-button{
+	cursor: pointer;
+	background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+	text-transform: capitalize;
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+    font-size: 14px;
+}
+.price{
+    color: #F30071;
+}
+.categories h1{
+    font-size: 28px;
+    text-transform: capitalize;
+    color: #fff;
+}
+.categories img{
+    width: 70%;
+    height: auto;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 5px 50px;
+    border-radius: 8px;
+}
+.cat1{
+    background: #F4A92D;
+}
+.cat2{
+    background: #F0197D;
+}
+.cat3{
+    background: #2F39F8;
+}
+
+#shoes h3, #bagpack h3{
+    text-transform: capitalize;
+}
+.card h5{
+    text-transform: capitalize;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
+.card-body input {
+    /* border: none; */
+    background-color: #fff;
+    padding: 5px 50px 5px 10px;
+    text-transform: capitalize;
+    border-radius: 4px;
+}
+.bg-color-sub{
+    background: #FDE7E7;
+}
